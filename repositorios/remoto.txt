@@ -1,0 +1,9 @@
+REMOTO:
+corresponde a un repositorio que se encuentra en otro equipo/servidor.
+Existen ciclos como GitHub.com, GitLab.com o bickBucket.com
+que estan diseñados para el almacen de datos, 
+especificamente hablando, repositorios de proyectos. 
+Se pueden publicar de manera privada, para que accedan solamente
+colaboradores o de manera pública para que cualquier
+persona pueda clonar o hacer un fork de nuestro repositorio.
+
