@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿REPOSITORY: (ALMACEN/REGISTRO DE CAMBIOS)
+=======
+REPOSITORY: (ALMACEN/REGISTRO DE CAMBIOS)
+>>>>>>> master
 Area que al igual que el INDEX tambien se encuentra
 en el directorio .git y su funcion principal
 es guardar las capturas (snapshot) en formato de
