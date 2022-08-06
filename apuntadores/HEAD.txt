@@ -1,0 +1,8 @@
+HEAD (Cabecera)
+
+Es un apuntador dinamico que siempre marca el commit en el que nos
+encontramos actualmente. Se desplaza automáticamente cada vez que
+emitimos un commit o cambiamos de branch en el proyecto.
+Se encuentra en la carpeta .git y es fundamental para el manejo
+del historial de cambios.
+
